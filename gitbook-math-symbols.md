@@ -129,13 +129,13 @@ A = \left[ \begin{matrix}
 \end{matrix} \right]
 ```
 
-$A = \left[ \begin{matrix}
+$$A = \left[ \begin{matrix}
 
    a & b  \\
 
    c & d  \\
 
-\end{matrix} \right] $
+\end{matrix} \right] $$
 
 ```
 \chi (\lambda)=\left| \begin{matrix}
@@ -147,13 +147,13 @@ $A = \left[ \begin{matrix}
 \end{matrix} \right|
 ```
 
-$\chi (\lambda)=\left| \begin{matrix}
+$$\chi (\lambda)=\left| \begin{matrix}
 
    \lambda - a & -b  \\
 
    -c & \lambda - d  \\
 
-\end{matrix} \right| $
+\end{matrix} \right| $$
 
 ### 求和与连乘
 
@@ -161,13 +161,13 @@ $\chi (\lambda)=\left| \begin{matrix}
 \sum_{k=1}^n k^2 = \frac{1}{2} n (n+1)
 ```
 
-$\sum_{k=1}^n k^2 = \frac{1}{2} n (n+1)$
+$$\sum_{k=1}^n k^2 = \frac{1}{2} n (n+1)$$
 
 ```
 \prod_{k=1}^n k = n!
 ```
 
-$\prod_{k=1}^n k = n!$
+$$\prod_{k=1}^n k = n!$$
 
 ### 导数
 
@@ -175,7 +175,7 @@ $\prod_{k=1}^n k = n!$
 {f}'(x) = x^2 + x
 ```
 
-${f}'(x) = x^2 + x$
+$${f}'(x) = x^2 + x$$
 
 ### 极限
 
@@ -183,7 +183,7 @@ ${f}'(x) = x^2 + x$
 \lim_{x \to 0} \frac{3x^2 +7x^3}{x^2 +5x^4} = 3
 ```
 
-$\lim_{x \to 0} \frac{3x^2 +7x^3}{x^2 +5x^4} = 3$
+$$\lim_{x \to 0} \frac{3x^2 +7x^3}{x^2 +5x^4} = 3$$
 
 ### 积分
 
@@ -193,16 +193,16 @@ $\lim_{x \to 0} \frac{3x^2 +7x^3}{x^2 +5x^4} = 3$
 \int_a^b f(x)\,dx
 ```
 
-$\int_a^b f(x)\,dx$
+$$\int_a^b f(x)\,dx$$
 
 ```
 \int_{x^2 + y^2 \leq R^2} f(x,y)\,dx\,dy = \int_{\theta=0}^{2\pi} \int_{r=0}^R f(r\cos\theta,r\sin\theta) r\,dr\,d\theta
 ```
 
-$\int_{x^2 + y^2 \leq R^2} f(x,y)\,dx\,dy = \int_{\theta=0}^{2\pi} \int_{r=0}^R f(r\cos\theta,r\sin\theta) r\,dr\,d\theta$
+$$\int_{x^2 + y^2 \leq R^2} f(x,y)\,dx\,dy = \int_{\theta=0}^{2\pi} \int_{r=0}^R f(r\cos\theta,r\sin\theta) r\,dr\,d\theta$$
 
 ```
 \int \!\!\! \int_D f(x,y)\,dx\,dy \int \int_D f(x,y)\,dx\,dy
 ```
 
-$\int \!\!\! \int_D f(x,y)\,dx\,dy \int \int_D f(x,y)\,dx\,dy$
+$$\int \!\!\! \int_D f(x,y)\,dx\,dy \int \int_D f(x,y)\,dx\,dy$$
